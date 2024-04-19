@@ -15,11 +15,11 @@ To replicate the setup and run the code, follow these steps:
 This project serves as a comparative study between the PDE and Integro-difference equation models in chemotaxis. It offers insights into the behavior and performance of each model under different conditions.
 
 # Potential Applications
-1. Biological systems modeling
-2. Environmental studies
-3. Chemical engineering simulations
-4. Computational biology research
-5. Mathematical modeling in life sciences
+1. Structural engineering
+2. Heat transfer analysis
+3. Fluid dynamics
+4. Electromagnetic field modeling
+5. Biological systems modeling
 
 # Features
 1. Integration of chemotaxis PDE model using FEniCS
