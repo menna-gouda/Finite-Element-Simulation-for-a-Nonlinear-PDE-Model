@@ -6,11 +6,12 @@ This project integrates a chemotaxis Partial Differential Equation (PDE) model u
 # Installation
 To replicate the setup and run the code, follow these steps:
 
-Install FEniCS: Ensure FEniCS is properly installed on your system. You can refer to the official documentation for installation instructions.
-Download Code: Clone or download the repository containing the code and presentation slides.
-Setup Environment: Set up the necessary environment variables and dependencies as mentioned in the documentation.
-Run Code: Execute the provided code snippets or scripts to observe the simulation results.
-Usage
+1. Install FEniCS: Ensure FEniCS is properly installed on your system. You can refer to the official documentation for installation instructions.
+2. Download Code: Clone or download the repository containing the code and presentation slides.
+3. Setup Environment: Set up the necessary environment variables and dependencies as mentioned in the documentation.
+4. Run Code: Execute the provided code snippets or scripts to observe the simulation results.
+
+# Usage
 This project serves as a comparative study between the PDE and Integro-difference equation models in chemotaxis. It offers insights into the behavior and performance of each model under different conditions.
 
 # Potential Applications
